@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Agustín Haag</h1>
-<h3 align="center">Un desarrollador frontend apasionado de Argentina <img src="arg.png" height="10" width="10"></img> </h3>
+<h3 align="center">Un desarrollador frontend apasionado de Argentina <img src="./arg.png" height="20" width="20"></img> </h3>
 
 - 🔭 Actualmente estoy trabajando en **Gendarmería Nacional Argentina**
 
