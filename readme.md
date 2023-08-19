@@ -3,7 +3,9 @@
 
 - 🔭 Actualmente estoy trabajando en **Gendarmería Nacional Argentina**
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo Fullstack Js/NodeJS**
+- 💫 Egresado del programa Codo a codo 4.0 "Fullstack developer Js/NodeJs"
+
+- 🌱 Actualmente estoy aprendiendo **React/React native/Redux**
 
 - 🤝 Me encuentro terminando mi carrera técnica en programación **TECLAB**
 
