@@ -13,7 +13,7 @@
 
 - 📫 Cómo contactarme **agustin-haag@hotmail.com**
 
-- 📄 Conoce mis experiencias [https://drive.google. com/file/d/139LCZE_M63lWnxn-iU5fCkJLv3NzUcPk/view?usp=share_link](https://drive.google.com/file/d/139LCZE_M63lWnxn-iU5fCkJLv3NzUcPk/view?usp=share_link)
+- 📄 Conoce mis experiencias [https://drive.google.com/file/d/1wpac-rg4vsQP55M_qVUE40wgHtaweMGD/view?usp=drive_link](https://drive.google.com/file/d/1wpac-rg4vsQP55M_qVUE40wgHtaweMGD/view?usp=drive_link)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
