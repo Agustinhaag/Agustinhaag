@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **React/React native/Redux**
 
-- 🤝 Me encuentro terminando mi carrera técnica en programación **TECLAB**
+- 🤝 Soy egresado de la técnicatura en programación **TECLAB**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https:/ /github.com/Agustinhaag](https://github.com/Agustinhaag)
 
