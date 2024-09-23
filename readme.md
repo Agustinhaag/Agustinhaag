@@ -13,9 +13,9 @@
 
 - 📫 Cómo contactarme **agustin-haag@hotmail.com**
 
-- 📄 Conoce mis experiencias https://drive.google.com/file/d/15MaC6G4yNsZJMwX6_vi9sjBkWyk59gm6/view?usp=drive_link
+- 📄 Conoce mis <a href="https://drive.google.com/file/d/15MaC6G4yNsZJMwX6_vi9sjBkWyk59gm6/view?usp=drive_link">experiencias</a>
 
-- 💼 Mi portafolio https://portfolio-react-git-master-agustinhaag.vercel.app/
+- 💼 Mi <a href="https://portfolio-react-git-master-agustinhaag.vercel.app/">portafolio</a>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
