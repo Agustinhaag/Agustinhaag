@@ -3,9 +3,9 @@
 
 - 🔭 Actualmente estoy trabajando en **Gendarmería Nacional Argentina**
 
-- 💫 Egresado del programa Codo a codo 4.0 "Fullstack developer Js/NodeJs"
+- 💫 Egresado del programa Codo a codo 4.0 "Fullstack developer Js/NodeJs" & "React/React native/redux"
 
-- 🌱 Actualmente estoy aprendiendo **React/React native/Redux**
+- 🌱 Actualmente estoy cursando el bootcamp SoyHenry.
 
 - 🤝 Soy egresado de la técnicatura en programación **TECLAB**
 
