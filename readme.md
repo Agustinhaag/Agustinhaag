@@ -5,7 +5,7 @@
 
 - 💫 Egresado del programa Codo a codo 4.0 "Fullstack developer Js/NodeJs" & "React/React native/redux"
 
-- 🌱 Actualmente estoy cursando el bootcamp SoyHenry.
+- 🌱 Me encuentro cursando el bootcamp SoyHenry.
 
 - 🤝 Soy egresado de la técnicatura en programación **TECLAB**
 
@@ -13,7 +13,9 @@
 
 - 📫 Cómo contactarme **agustin-haag@hotmail.com**
 
-- 📄 Conoce mis experiencias [https://drive.google.com/file/d/1wpac-rg4vsQP55M_qVUE40wgHtaweMGD/view?usp=drive_link](https://drive.google.com/file/d/1wpac-rg4vsQP55M_qVUE40wgHtaweMGD/view?usp=drive_link)
+- 📄 Conoce mis experiencias https://drive.google.com/file/d/15MaC6G4yNsZJMwX6_vi9sjBkWyk59gm6/view?usp=drive_link
+
+- 💼 Mi portafolio https://portfolio-react-git-master-agustinhaag.vercel.app/
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
