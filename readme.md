@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Agustín Haag</h1>
 <h3 align="center">Un desarrollador Fullstack apasionado de Argentina <img src="arg.png" height="20" width="20"></img> </h3>
 
-- 🔭 Actualmente estoy trabajando en **Gendarmería Nacional Argentina**
+- 🔭 Actualmente estoy trabajando en **SG-Redes informáticas && SoyHenry**
 
 - 💫 Egresado del programa Codo a codo 4.0 "Fullstack developer Js/NodeJs" & "React/React native/redux"
 
-- 🌱 Me encuentro cursando el bootcamp SoyHenry.
+- 🌱 Egresado del bootcamp SoyHenry.
 
 - 🤝 Soy egresado de la técnicatura en programación **TECLAB**
 
